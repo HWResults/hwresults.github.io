@@ -1,0 +1,34 @@
+#gallery-text-left {
+  /* Added */
+  width: 50%;
+
+}
+
+#gallery-paragraph-1 {
+  border: 4px solid green;
+  border-right: 2px solid;
+  border-radius: 4px;
+  padding-left: 15px;
+  padding-right: 7px;
+  /* Added */
+  word-wrap: break-word;
+  background-color: black;
+  color: green;
+}
+
+#gallery-paragraph-2 {
+  border: 4px solid green;
+  border-left: 2px solid;
+  border-radius: 4px;
+  padding-left: 15px;
+  padding-right:7px; 
+  background-color: black;
+  color: green;
+}
+
+
+#gallery-text-right {
+  /* Added */
+  width: 50%;
+
+}
