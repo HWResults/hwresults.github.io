@@ -32,3 +32,14 @@
   width: 50%;
 
 }
+@media (max-width: 640px) {
+	
+	#gallery-text-right {
+  /* Added */
+  width: 100%;
+	}
+  #gallery-text-left {
+  /* Added */
+  width: 100%;
+  }
+ }
